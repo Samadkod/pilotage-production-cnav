@@ -70,8 +70,6 @@ Développer un tableau de bord interactif pour suivre la performance des équipe
 
 👋 Je suis **S. Kodon**, Data Analyst passionné par le pilotage de la performance et les solutions concrètes basées sur la donnée. Je suis actuellement à la recherche d’un **CDD, CDI ou contrat pro** dans le domaine de la data, du reporting ou des études statistiques.
 
-📧 Contactez-moi directement sur [LinkedIn](https://www.linkedin.com/in/ton-profil) ou en téléchargeant mon [CV ici](https://tonliencv.fr).
-
 ---
 
 ✅ Projet entièrement disponible sur GitHub :
