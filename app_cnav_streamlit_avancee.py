@@ -5,6 +5,8 @@ import plotly.express as px
 # Chargement des données
 df = pd.read_csv("donnees_simulees_cnav.csv", parse_dates=["Date"])
 
+df.columns = df.columns.str.strip()  # 🔧 Corrige les noms de colonnes
+
 st.set_page_config(page_title="Pilotage Production - CNAV", layout="wide")
 
 st.title("📊 Suivi de la performance - Production CNAV")
