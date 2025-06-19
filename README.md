@@ -48,7 +48,19 @@ Développer un tableau de bord interactif pour suivre la performance des équipe
 - Streamlit
 
 ---
+## 🧠 Méthodologie
 
+| Étape                             | Détails                                                                 |
+|----------------------------------|-------------------------------------------------------------------------|
+| **1. Simulation des données**    | Génération d’un jeu de données réaliste : dossiers, délais, agences, rejets, etc. |
+| **2. Nettoyage & préparation**   | - Vérification des colonnes<br>- Conversion des dates<br>- Suppression des incohérences |
+| **3. Développement de l’app**    | - Création de l’interface avec Streamlit<br>- Ajout de filtres dynamiques |
+| **4. Analyse & visualisation**   | - KPIs principaux : dossiers traités, délais moyens, taux de retour<br>- Graphiques : évolution mensuelle, délai par agence |
+| **5. Génération d’insights**     | - Calcul automatique d’indicateurs clés<br>- Affichage de recommandations métiers pertinentes |
+| **6. Mise en ligne & diffusion** | - Déploiement via Streamlit Cloud<br>- Lien public accessible à tous |
+
+
+---
 ## 📌 Résultats et insights
 
 - Mise en lumière des écarts de performance entre agences
