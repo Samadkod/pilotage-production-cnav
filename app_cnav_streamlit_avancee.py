@@ -24,13 +24,13 @@ df_filtered = df[df["Type_dossier"].isin(types) & df["Agence"].isin(agences)]
 
 # KPI principaux
 col3, col4, col5 = st.columns(3)
-col3.metric("📦 Dossiers traités", int(df_filtered["Dossiers_traites"].sum()))
+col3.metric("📦 Dossiers traités", int(df_filtered["Dossiers"].sum()))
 col4.metric("⏱️ Délai moyen (jours)", round(df_filtered["Délai_traitement"].mean(), 1))
 col5.metric("⚠️ Taux de retour", f"{df_filtered['Taux_retour'].mean():.1%}")
 
 # Graphique des dossiers traités par mois
-fig1 = px.bar(df_filtered.groupby(df_filtered["Date"].dt.to_period("M"))["Dossiers_traites"].sum().reset_index(),
-              x="Date", y="Dossiers_traites", title="📈 Évolution mensuelle des dossiers traités")
+fig1 = px.bar(df_filtered.groupby(df_filtered["Date"].dt.to_period("M"))["Dossiers"].sum().reset_index(),
+              x="Date", y="Dossiers", title="📈 Évolution mensuelle des dossiers traités")
 st.plotly_chart(fig1, use_container_width=True)
 
 # Graphique du délai moyen par agence
@@ -48,6 +48,6 @@ if df_filtered["Délai_traitement"].mean() > 20:
     st.warning("⏱️ Le délai moyen dépasse 20 jours. Envisagez un renfort temporaire ou une révision des procédures.")
 if df_filtered["Taux_retour"].mean() > 0.1:
     st.error("❌ Le taux de retour dépasse 10%. Un audit des motifs est recommandé.")
-if df_filtered.groupby("Agence")["Dossiers_traites"].sum().std() > 300:
+if df_filtered.groupby("Agence")["Dossiers"].sum().std() > 300:
     st.info("📍 Écart important entre agences. Une redistribution des charges peut être envisagée.")
 
