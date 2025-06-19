@@ -1,0 +1,501 @@
+Date,Agence,Type_dossier,Statut,Délai_traitement,Nb_documents,Retours_dossier,Agent
+2023-07-31,Bobigny,Invalidité,Clôturé,33,1,0,1012
+2024-03-31,Bobigny,Carrière,En cours,13,4,0,1003
+2023-11-30,Créteil,Carrière,En attente,26,5,1,1014
+2023-08-31,Paris,Carrière,En attente,36,4,0,1017
+2023-07-31,Nanterre,Retraite,En cours,57,3,1,1019
+2023-11-30,Paris,Invalidité,En attente,10,3,0,1006
+2023-11-30,Paris,Réversion,Clôturé,15,1,0,1004
+2023-04-30,Paris,Retraite,En cours,8,4,0,1007
+2023-08-31,Versailles,Carrière,En cours,102,4,0,1019
+2023-03-31,Bobigny,Retraite,En cours,57,3,0,1017
+2023-02-28,Paris,Carrière,Clôturé,20,2,0,1016
+2023-12-31,Bobigny,Carrière,En cours,41,5,0,1015
+2023-06-30,Créteil,Retraite,En cours,19,1,1,1008
+2023-02-28,Nanterre,Invalidité,En cours,24,7,0,1019
+2023-01-31,Créteil,Carrière,En attente,6,3,0,1008
+2023-12-31,Créteil,Invalidité,Clôturé,33,4,0,1018
+2023-12-31,Versailles,Réversion,Clôturé,7,2,0,1016
+2024-05-31,Nanterre,Carrière,En cours,39,0,0,1019
+2023-10-31,Créteil,Invalidité,Clôturé,35,4,0,1010
+2024-04-30,Créteil,Invalidité,Clôturé,29,3,1,1017
+2024-03-31,Nanterre,Réversion,Clôturé,5,4,0,1013
+2024-03-31,Nanterre,Invalidité,Clôturé,12,3,0,1013
+2023-12-31,Créteil,Invalidité,En cours,11,1,0,1007
+2023-03-31,Nanterre,Réversion,En cours,13,0,1,1010
+2023-05-31,Créteil,Carrière,En cours,6,3,0,1002
+2023-07-31,Créteil,Invalidité,Clôturé,60,2,0,1004
+2023-09-30,Versailles,Invalidité,En attente,21,6,0,1006
+2023-07-31,Paris,Invalidité,Clôturé,12,2,0,1018
+2024-06-30,Créteil,Retraite,Clôturé,15,4,0,1006
+2023-04-30,Bobigny,Réversion,En attente,16,3,0,1017
+2024-02-29,Paris,Retraite,Clôturé,23,7,0,1014
+2024-06-30,Paris,Réversion,En attente,19,5,0,1011
+2023-09-30,Paris,Carrière,En cours,55,4,0,1019
+2023-02-28,Versailles,Carrière,Clôturé,18,1,0,1002
+2024-03-31,Créteil,Invalidité,En attente,101,6,0,1003
+2023-07-31,Versailles,Réversion,Clôturé,43,1,0,1011
+2023-12-31,Créteil,Carrière,Clôturé,9,2,0,1006
+2023-08-31,Versailles,Réversion,En cours,58,1,0,1014
+2024-03-31,Versailles,Carrière,En attente,7,3,0,1019
+2023-03-31,Bobigny,Retraite,En attente,39,2,0,1016
+2024-02-29,Versailles,Carrière,En cours,14,1,1,1007
+2024-05-31,Nanterre,Retraite,Clôturé,47,0,0,1008
+2023-04-30,Bobigny,Carrière,En cours,45,1,0,1019
+2024-06-30,Versailles,Invalidité,En attente,37,1,0,1016
+2023-08-31,Paris,Retraite,En cours,36,5,0,1007
+2023-04-30,Nanterre,Carrière,En cours,12,2,0,1009
+2023-02-28,Nanterre,Invalidité,Clôturé,6,6,0,1013
+2023-06-30,Nanterre,Retraite,En attente,15,2,0,1001
+2023-10-31,Bobigny,Invalidité,Clôturé,8,5,0,1008
+2023-04-30,Versailles,Réversion,En cours,28,2,0,1004
+2024-06-30,Versailles,Réversion,Clôturé,13,1,0,1003
+2023-12-31,Paris,Retraite,En cours,79,1,0,1003
+2023-02-28,Paris,Carrière,En cours,25,2,0,1013
+2023-10-31,Nanterre,Retraite,Clôturé,39,3,1,1008
+2023-04-30,Paris,Invalidité,En attente,7,2,1,1007
+2024-02-29,Bobigny,Carrière,Clôturé,44,1,0,1001
+2024-04-30,Versailles,Réversion,En cours,56,5,0,1016
+2024-03-31,Nanterre,Carrière,En attente,18,5,0,1006
+2023-08-31,Paris,Réversion,En cours,23,2,0,1007
+2024-02-29,Bobigny,Carrière,Clôturé,33,1,0,1012
+2023-08-31,Bobigny,Carrière,En attente,8,3,0,1009
+2024-04-30,Paris,Carrière,En cours,18,0,0,1011
+2024-01-31,Versailles,Invalidité,En cours,15,2,0,1010
+2024-06-30,Paris,Invalidité,En cours,8,6,0,1001
+2024-03-31,Nanterre,Retraite,En attente,14,7,0,1018
+2024-01-31,Paris,Retraite,Clôturé,6,3,0,1004
+2023-09-30,Bobigny,Réversion,Clôturé,5,3,0,1005
+2024-03-31,Paris,Invalidité,Clôturé,7,3,1,1009
+2024-01-31,Versailles,Réversion,Clôturé,70,1,0,1017
+2023-01-31,Créteil,Retraite,En attente,20,3,0,1003
+2023-07-31,Paris,Réversion,Clôturé,72,4,1,1016
+2023-09-30,Versailles,Retraite,En attente,16,4,1,1005
+2023-01-31,Versailles,Invalidité,En attente,12,1,0,1016
+2023-12-31,Bobigny,Carrière,En cours,19,3,0,1003
+2023-08-31,Versailles,Invalidité,En cours,16,0,0,1015
+2023-11-30,Versailles,Réversion,Clôturé,7,2,0,1003
+2024-05-31,Versailles,Réversion,En cours,25,4,0,1014
+2023-08-31,Versailles,Invalidité,En cours,9,6,0,1016
+2023-03-31,Nanterre,Invalidité,En attente,24,3,0,1017
+2023-03-31,Nanterre,Retraite,Clôturé,26,2,0,1018
+2023-01-31,Bobigny,Réversion,En cours,8,4,0,1018
+2023-05-31,Paris,Réversion,En cours,6,2,0,1014
+2023-10-31,Versailles,Invalidité,En attente,35,4,0,1018
+2023-07-31,Paris,Carrière,Clôturé,17,2,0,1015
+2023-09-30,Paris,Réversion,En cours,6,6,0,1015
+2023-07-31,Bobigny,Carrière,En attente,110,2,0,1006
+2023-09-30,Versailles,Invalidité,En attente,6,0,0,1015
+2023-08-31,Versailles,Invalidité,En cours,28,5,1,1018
+2023-12-31,Créteil,Retraite,En cours,87,3,0,1004
+2023-02-28,Paris,Réversion,En attente,10,2,0,1008
+2023-01-31,Paris,Carrière,Clôturé,8,5,0,1015
+2024-04-30,Nanterre,Retraite,En attente,7,4,0,1003
+2023-05-31,Créteil,Réversion,En cours,12,4,0,1015
+2023-03-31,Nanterre,Retraite,Clôturé,7,7,0,1013
+2023-12-31,Nanterre,Invalidité,En cours,28,2,0,1009
+2023-08-31,Nanterre,Réversion,En cours,6,2,0,1002
+2023-03-31,Bobigny,Retraite,En cours,19,5,0,1008
+2023-01-31,Bobigny,Retraite,En attente,119,4,0,1017
+2023-03-31,Nanterre,Carrière,Clôturé,38,3,0,1013
+2023-05-31,Créteil,Retraite,En cours,24,2,1,1001
+2024-03-31,Paris,Réversion,Clôturé,12,4,0,1002
+2024-02-29,Créteil,Réversion,En attente,24,4,0,1015
+2023-03-31,Versailles,Carrière,En attente,19,5,0,1012
+2023-01-31,Bobigny,Réversion,En attente,16,1,0,1014
+2023-05-31,Paris,Invalidité,En cours,7,2,0,1002
+2024-02-29,Paris,Réversion,En cours,48,1,0,1018
+2023-07-31,Versailles,Réversion,Clôturé,16,4,0,1007
+2023-09-30,Versailles,Retraite,En cours,9,1,0,1006
+2024-03-31,Nanterre,Retraite,Clôturé,14,3,0,1014
+2024-03-31,Bobigny,Réversion,En attente,15,1,0,1008
+2023-10-31,Bobigny,Carrière,Clôturé,40,2,0,1002
+2024-01-31,Créteil,Retraite,Clôturé,31,5,0,1017
+2023-07-31,Nanterre,Carrière,Clôturé,34,4,0,1005
+2024-05-31,Nanterre,Réversion,Clôturé,5,3,0,1014
+2023-04-30,Nanterre,Réversion,Clôturé,15,3,0,1003
+2023-05-31,Nanterre,Invalidité,En cours,18,5,0,1005
+2023-07-31,Bobigny,Retraite,En attente,5,3,0,1016
+2024-01-31,Bobigny,Réversion,En attente,11,2,0,1018
+2024-03-31,Nanterre,Invalidité,Clôturé,33,1,1,1017
+2023-11-30,Créteil,Retraite,En cours,7,2,0,1011
+2023-04-30,Paris,Réversion,Clôturé,20,1,0,1017
+2024-01-31,Paris,Réversion,En cours,9,2,0,1016
+2023-07-31,Créteil,Retraite,En attente,5,1,0,1002
+2023-02-28,Nanterre,Retraite,En attente,10,3,0,1004
+2023-10-31,Bobigny,Retraite,En cours,79,3,0,1007
+2024-01-31,Paris,Réversion,En cours,37,6,0,1002
+2023-06-30,Versailles,Réversion,En attente,69,5,0,1006
+2023-12-31,Versailles,Invalidité,En cours,18,6,0,1017
+2023-12-31,Créteil,Carrière,En attente,7,1,0,1007
+2023-11-30,Nanterre,Retraite,En cours,20,2,1,1005
+2023-07-31,Paris,Réversion,En attente,17,4,0,1005
+2023-01-31,Nanterre,Réversion,Clôturé,42,2,0,1016
+2023-01-31,Paris,Retraite,En cours,7,1,0,1019
+2024-01-31,Créteil,Carrière,En cours,18,4,0,1009
+2023-09-30,Créteil,Retraite,En attente,8,4,0,1005
+2023-03-31,Versailles,Carrière,En attente,12,1,0,1008
+2023-07-31,Nanterre,Réversion,En cours,31,4,0,1009
+2023-06-30,Versailles,Carrière,En cours,17,3,0,1005
+2023-08-31,Nanterre,Invalidité,En cours,14,1,0,1010
+2023-09-30,Versailles,Réversion,En attente,15,2,0,1002
+2023-05-31,Bobigny,Invalidité,En cours,17,1,0,1009
+2023-01-31,Bobigny,Retraite,Clôturé,35,2,1,1011
+2023-10-31,Bobigny,Retraite,Clôturé,49,2,0,1004
+2023-12-31,Bobigny,Retraite,En attente,67,3,0,1002
+2024-03-31,Paris,Carrière,En cours,35,4,0,1006
+2023-09-30,Bobigny,Réversion,En attente,12,4,1,1014
+2024-05-31,Créteil,Retraite,En attente,28,0,0,1001
+2024-05-31,Créteil,Retraite,Clôturé,16,3,0,1018
+2023-12-31,Paris,Réversion,En attente,10,0,0,1007
+2023-07-31,Bobigny,Retraite,En cours,41,3,0,1001
+2023-02-28,Bobigny,Invalidité,En cours,5,1,0,1001
+2023-03-31,Bobigny,Réversion,Clôturé,51,4,0,1001
+2024-05-31,Versailles,Réversion,En cours,17,5,1,1004
+2023-05-31,Nanterre,Réversion,En attente,25,1,0,1004
+2024-05-31,Versailles,Invalidité,En cours,26,3,0,1018
+2024-05-31,Nanterre,Réversion,En cours,50,3,0,1011
+2024-05-31,Bobigny,Invalidité,En attente,25,3,0,1001
+2023-02-28,Bobigny,Réversion,En cours,24,2,1,1010
+2023-02-28,Versailles,Carrière,En attente,6,3,0,1009
+2023-05-31,Versailles,Retraite,En attente,19,3,0,1004
+2023-01-31,Nanterre,Carrière,En cours,8,4,0,1006
+2023-01-31,Créteil,Retraite,En attente,31,3,0,1016
+2023-02-28,Nanterre,Invalidité,En cours,19,1,0,1002
+2023-12-31,Versailles,Carrière,En cours,27,2,0,1018
+2023-06-30,Versailles,Réversion,Clôturé,5,4,0,1010
+2023-04-30,Paris,Retraite,En attente,6,1,1,1017
+2023-11-30,Versailles,Retraite,En attente,30,4,0,1013
+2024-05-31,Paris,Carrière,En attente,6,2,1,1018
+2023-06-30,Créteil,Invalidité,En cours,6,1,0,1013
+2023-05-31,Nanterre,Carrière,Clôturé,5,5,0,1017
+2023-02-28,Nanterre,Invalidité,En attente,67,6,0,1005
+2023-06-30,Paris,Invalidité,Clôturé,31,1,0,1011
+2023-11-30,Nanterre,Retraite,En attente,13,7,0,1007
+2024-04-30,Versailles,Carrière,En cours,12,4,0,1010
+2024-04-30,Bobigny,Carrière,Clôturé,13,3,0,1017
+2023-01-31,Paris,Invalidité,Clôturé,34,3,0,1015
+2023-09-30,Nanterre,Carrière,Clôturé,26,0,0,1018
+2023-06-30,Paris,Réversion,Clôturé,9,3,0,1019
+2024-04-30,Paris,Réversion,En cours,8,3,0,1002
+2023-03-31,Bobigny,Carrière,Clôturé,7,1,0,1004
+2023-04-30,Versailles,Carrière,En attente,26,0,0,1003
+2023-03-31,Paris,Invalidité,Clôturé,33,2,0,1007
+2023-07-31,Nanterre,Réversion,En cours,11,4,1,1018
+2023-09-30,Créteil,Réversion,Clôturé,5,6,0,1010
+2023-01-31,Paris,Retraite,En cours,6,3,0,1007
+2023-08-31,Paris,Invalidité,En cours,73,3,0,1008
+2023-07-31,Bobigny,Retraite,En cours,12,2,0,1006
+2024-06-30,Versailles,Réversion,Clôturé,34,1,0,1001
+2023-08-31,Créteil,Invalidité,En attente,24,0,0,1004
+2023-01-31,Nanterre,Carrière,En attente,14,2,1,1014
+2023-11-30,Créteil,Invalidité,En attente,9,6,0,1017
+2024-06-30,Nanterre,Carrière,En attente,7,6,0,1018
+2023-10-31,Versailles,Carrière,Clôturé,24,3,0,1011
+2023-03-31,Nanterre,Invalidité,En attente,34,3,0,1014
+2023-07-31,Bobigny,Carrière,Clôturé,25,2,0,1009
+2024-04-30,Bobigny,Retraite,En cours,20,5,0,1015
+2024-04-30,Bobigny,Réversion,En attente,5,3,0,1012
+2024-05-31,Bobigny,Carrière,Clôturé,74,2,1,1010
+2023-02-28,Créteil,Retraite,En cours,37,2,0,1019
+2023-01-31,Versailles,Carrière,En cours,11,2,0,1019
+2024-04-30,Nanterre,Réversion,En cours,83,3,0,1006
+2023-12-31,Nanterre,Retraite,Clôturé,23,1,0,1006
+2023-05-31,Bobigny,Réversion,En attente,22,6,0,1008
+2023-05-31,Bobigny,Réversion,Clôturé,32,4,0,1001
+2023-09-30,Paris,Retraite,Clôturé,38,6,0,1017
+2023-09-30,Versailles,Retraite,En cours,26,2,0,1017
+2023-03-31,Créteil,Retraite,En attente,7,5,0,1015
+2024-04-30,Nanterre,Invalidité,En cours,13,2,1,1007
+2024-04-30,Paris,Retraite,En attente,57,3,0,1019
+2023-03-31,Paris,Retraite,En attente,10,6,1,1003
+2023-01-31,Nanterre,Retraite,En attente,14,6,1,1011
+2023-11-30,Créteil,Retraite,En cours,16,5,0,1019
+2024-05-31,Paris,Carrière,Clôturé,16,4,0,1009
+2023-08-31,Paris,Invalidité,Clôturé,23,3,0,1010
+2023-04-30,Versailles,Réversion,Clôturé,62,1,0,1002
+2023-06-30,Créteil,Retraite,En cours,10,4,0,1001
+2023-08-31,Paris,Carrière,En cours,7,3,0,1016
+2023-03-31,Créteil,Carrière,En cours,9,4,1,1018
+2024-04-30,Nanterre,Carrière,Clôturé,48,2,0,1017
+2023-03-31,Bobigny,Réversion,En attente,25,2,0,1006
+2024-06-30,Paris,Retraite,Clôturé,11,4,0,1014
+2024-02-29,Versailles,Invalidité,En cours,38,4,1,1015
+2024-06-30,Nanterre,Invalidité,En cours,44,1,0,1014
+2023-02-28,Créteil,Carrière,Clôturé,42,2,1,1003
+2023-03-31,Nanterre,Réversion,En cours,55,4,0,1019
+2024-04-30,Paris,Réversion,Clôturé,10,2,0,1012
+2023-09-30,Créteil,Réversion,Clôturé,33,3,0,1002
+2023-04-30,Bobigny,Invalidité,En cours,17,5,0,1003
+2023-01-31,Nanterre,Carrière,En attente,41,2,0,1018
+2023-04-30,Paris,Retraite,En cours,31,2,0,1001
+2023-01-31,Versailles,Invalidité,Clôturé,34,2,0,1006
+2024-02-29,Créteil,Carrière,En attente,26,2,0,1005
+2024-04-30,Nanterre,Carrière,En cours,8,4,0,1001
+2023-08-31,Nanterre,Retraite,En cours,20,2,1,1019
+2023-07-31,Bobigny,Retraite,Clôturé,88,2,0,1001
+2023-03-31,Bobigny,Retraite,En attente,60,3,0,1016
+2024-05-31,Versailles,Réversion,Clôturé,5,2,0,1012
+2023-01-31,Versailles,Retraite,Clôturé,8,2,0,1008
+2024-04-30,Paris,Carrière,En attente,7,2,0,1016
+2023-12-31,Paris,Retraite,En attente,30,5,0,1001
+2024-02-29,Versailles,Carrière,Clôturé,39,4,0,1004
+2023-06-30,Versailles,Invalidité,En attente,9,4,0,1010
+2023-06-30,Créteil,Réversion,Clôturé,19,4,0,1011
+2024-01-31,Bobigny,Invalidité,En cours,41,4,0,1017
+2023-08-31,Paris,Invalidité,En attente,31,4,0,1007
+2023-02-28,Bobigny,Carrière,Clôturé,20,0,0,1012
+2023-01-31,Bobigny,Invalidité,En cours,22,1,0,1007
+2024-03-31,Versailles,Carrière,En cours,19,4,0,1012
+2023-01-31,Créteil,Retraite,En cours,12,1,0,1015
+2023-05-31,Nanterre,Retraite,En cours,21,4,1,1002
+2024-04-30,Créteil,Carrière,En attente,28,1,0,1014
+2023-04-30,Créteil,Retraite,En cours,46,2,0,1013
+2023-03-31,Bobigny,Réversion,Clôturé,25,2,0,1004
+2024-05-31,Créteil,Invalidité,En attente,33,1,0,1014
+2024-05-31,Paris,Réversion,En cours,8,4,0,1014
+2023-12-31,Bobigny,Invalidité,En cours,17,7,0,1016
+2024-02-29,Paris,Retraite,Clôturé,5,3,0,1007
+2023-06-30,Nanterre,Réversion,En attente,10,4,0,1019
+2023-03-31,Bobigny,Retraite,Clôturé,30,5,0,1002
+2023-09-30,Nanterre,Invalidité,En cours,101,3,0,1010
+2023-05-31,Bobigny,Carrière,En attente,7,2,0,1018
+2024-05-31,Versailles,Carrière,En attente,15,3,0,1017
+2024-02-29,Créteil,Réversion,En attente,37,2,0,1005
+2023-03-31,Versailles,Retraite,En cours,9,2,0,1012
+2023-01-31,Nanterre,Retraite,En cours,21,4,0,1006
+2023-01-31,Créteil,Réversion,Clôturé,31,1,0,1009
+2023-03-31,Bobigny,Carrière,En cours,24,5,0,1001
+2024-06-30,Créteil,Invalidité,En attente,9,2,0,1015
+2023-10-31,Paris,Réversion,En cours,13,3,0,1006
+2023-03-31,Créteil,Invalidité,Clôturé,35,6,0,1019
+2023-08-31,Paris,Carrière,En attente,21,3,0,1018
+2024-02-29,Créteil,Retraite,En attente,5,3,0,1006
+2024-06-30,Paris,Carrière,En attente,33,7,0,1013
+2024-03-31,Nanterre,Réversion,Clôturé,5,3,0,1001
+2023-02-28,Versailles,Retraite,En cours,32,1,0,1013
+2023-10-31,Bobigny,Réversion,En cours,9,0,0,1007
+2023-02-28,Créteil,Réversion,Clôturé,68,3,0,1015
+2024-05-31,Versailles,Carrière,Clôturé,14,1,0,1012
+2023-08-31,Bobigny,Réversion,En cours,12,2,0,1001
+2023-01-31,Bobigny,Carrière,Clôturé,8,1,0,1015
+2023-09-30,Paris,Retraite,En attente,12,3,1,1004
+2023-11-30,Nanterre,Carrière,En attente,46,1,0,1013
+2024-04-30,Nanterre,Retraite,En attente,117,2,1,1005
+2023-07-31,Versailles,Carrière,En attente,14,4,0,1002
+2023-10-31,Nanterre,Invalidité,En cours,16,3,0,1001
+2023-03-31,Créteil,Invalidité,Clôturé,30,4,0,1016
+2024-06-30,Nanterre,Réversion,En attente,48,2,0,1006
+2024-01-31,Versailles,Carrière,En attente,22,2,0,1016
+2023-07-31,Nanterre,Carrière,En cours,14,3,0,1014
+2023-04-30,Créteil,Retraite,Clôturé,15,1,0,1003
+2024-01-31,Paris,Réversion,En cours,28,2,1,1015
+2023-01-31,Versailles,Carrière,En cours,5,4,0,1003
+2023-08-31,Paris,Réversion,En attente,24,6,0,1002
+2024-02-29,Paris,Invalidité,En attente,13,4,0,1001
+2024-04-30,Paris,Carrière,Clôturé,36,1,0,1009
+2024-02-29,Bobigny,Carrière,Clôturé,6,4,0,1009
+2023-12-31,Bobigny,Réversion,En attente,22,4,0,1007
+2024-03-31,Paris,Carrière,Clôturé,18,1,0,1003
+2023-02-28,Versailles,Réversion,En cours,25,5,0,1018
+2023-02-28,Créteil,Carrière,Clôturé,6,2,0,1011
+2024-05-31,Créteil,Retraite,En cours,22,1,1,1007
+2023-10-31,Nanterre,Réversion,En cours,21,4,0,1009
+2023-06-30,Versailles,Carrière,En cours,21,3,1,1001
+2024-03-31,Bobigny,Invalidité,En cours,23,3,0,1014
+2023-11-30,Paris,Carrière,En attente,27,6,0,1006
+2023-05-31,Nanterre,Invalidité,En attente,37,4,0,1007
+2023-01-31,Créteil,Invalidité,En cours,11,9,0,1010
+2023-08-31,Bobigny,Retraite,Clôturé,39,3,0,1007
+2023-12-31,Bobigny,Réversion,En attente,18,2,0,1002
+2023-12-31,Paris,Carrière,En cours,6,3,0,1004
+2023-05-31,Créteil,Retraite,Clôturé,6,2,0,1017
+2023-07-31,Versailles,Carrière,En attente,13,5,0,1001
+2023-04-30,Bobigny,Invalidité,En cours,35,4,0,1010
+2023-06-30,Paris,Réversion,En cours,29,3,0,1019
+2024-01-31,Versailles,Carrière,Clôturé,36,5,0,1015
+2024-03-31,Créteil,Carrière,En attente,19,3,0,1010
+2023-03-31,Bobigny,Invalidité,En cours,16,1,0,1019
+2023-08-31,Versailles,Carrière,Clôturé,8,3,1,1012
+2024-04-30,Versailles,Carrière,Clôturé,12,7,0,1016
+2024-01-31,Versailles,Invalidité,En cours,16,3,0,1009
+2024-06-30,Bobigny,Retraite,En cours,6,2,0,1015
+2023-10-31,Bobigny,Invalidité,En cours,9,5,0,1017
+2024-05-31,Nanterre,Retraite,Clôturé,23,2,0,1014
+2023-05-31,Créteil,Réversion,En cours,31,4,0,1018
+2023-09-30,Paris,Retraite,En attente,133,1,0,1002
+2023-12-31,Versailles,Retraite,Clôturé,59,3,0,1004
+2023-01-31,Nanterre,Réversion,En cours,25,8,0,1018
+2023-01-31,Paris,Retraite,En cours,15,3,0,1007
+2024-03-31,Nanterre,Invalidité,En attente,25,5,0,1013
+2023-02-28,Bobigny,Retraite,En cours,35,6,1,1015
+2024-04-30,Versailles,Réversion,En cours,7,5,0,1001
+2023-08-31,Paris,Invalidité,En cours,15,4,0,1011
+2024-01-31,Paris,Réversion,En attente,41,3,0,1010
+2023-01-31,Paris,Réversion,En cours,14,4,0,1005
+2024-04-30,Paris,Carrière,Clôturé,21,0,1,1016
+2023-07-31,Paris,Carrière,En attente,22,8,0,1011
+2023-05-31,Nanterre,Réversion,Clôturé,9,2,1,1006
+2023-03-31,Versailles,Réversion,En cours,13,4,0,1009
+2023-12-31,Bobigny,Réversion,Clôturé,13,0,0,1013
+2024-04-30,Bobigny,Carrière,Clôturé,5,1,0,1008
+2023-05-31,Bobigny,Carrière,En cours,5,7,0,1014
+2024-02-29,Bobigny,Retraite,Clôturé,40,4,1,1001
+2023-05-31,Nanterre,Retraite,Clôturé,11,5,0,1017
+2024-03-31,Créteil,Réversion,En cours,19,1,0,1005
+2024-05-31,Versailles,Invalidité,En cours,12,5,0,1002
+2024-02-29,Paris,Invalidité,En cours,61,1,0,1009
+2023-05-31,Créteil,Carrière,Clôturé,11,2,0,1004
+2023-12-31,Bobigny,Carrière,Clôturé,16,1,0,1017
+2024-04-30,Créteil,Carrière,Clôturé,46,4,0,1017
+2024-04-30,Versailles,Réversion,En cours,41,3,0,1018
+2023-07-31,Paris,Invalidité,Clôturé,9,1,1,1016
+2023-04-30,Paris,Retraite,En attente,37,3,0,1008
+2023-01-31,Versailles,Réversion,En cours,17,2,0,1011
+2023-05-31,Versailles,Retraite,En attente,18,2,0,1018
+2023-10-31,Bobigny,Retraite,En cours,7,1,0,1010
+2023-05-31,Paris,Réversion,En cours,6,3,0,1013
+2023-04-30,Créteil,Retraite,En cours,31,2,0,1017
+2023-02-28,Nanterre,Invalidité,En cours,18,3,0,1018
+2023-10-31,Nanterre,Retraite,En cours,16,3,1,1010
+2023-01-31,Versailles,Invalidité,En cours,31,5,0,1016
+2023-05-31,Bobigny,Invalidité,En attente,34,6,0,1005
+2024-01-31,Nanterre,Invalidité,En cours,8,3,0,1013
+2023-04-30,Paris,Carrière,En attente,23,5,0,1018
+2024-04-30,Versailles,Retraite,En attente,7,2,0,1017
+2024-04-30,Créteil,Réversion,En cours,32,2,1,1009
+2023-02-28,Versailles,Réversion,En cours,26,4,1,1014
+2024-05-31,Créteil,Retraite,En cours,67,3,1,1017
+2023-12-31,Versailles,Carrière,En cours,6,2,1,1004
+2024-06-30,Versailles,Carrière,En cours,6,1,0,1018
+2023-03-31,Versailles,Invalidité,Clôturé,11,5,0,1015
+2023-01-31,Créteil,Retraite,En cours,11,3,0,1011
+2023-01-31,Créteil,Retraite,En cours,10,4,0,1012
+2023-11-30,Versailles,Réversion,En attente,52,1,0,1009
+2023-05-31,Nanterre,Retraite,En cours,10,3,0,1013
+2023-12-31,Bobigny,Carrière,En cours,11,4,0,1015
+2023-03-31,Bobigny,Retraite,En cours,33,2,0,1015
+2023-01-31,Bobigny,Réversion,En cours,16,2,0,1005
+2023-01-31,Créteil,Invalidité,En cours,34,2,0,1019
+2023-08-31,Créteil,Réversion,En cours,6,4,0,1014
+2023-10-31,Nanterre,Réversion,Clôturé,18,5,0,1017
+2023-11-30,Bobigny,Invalidité,Clôturé,5,2,0,1018
+2023-12-31,Bobigny,Réversion,Clôturé,6,2,0,1003
+2024-01-31,Versailles,Réversion,Clôturé,52,4,0,1002
+2023-12-31,Créteil,Retraite,En attente,7,0,0,1001
+2024-02-29,Bobigny,Retraite,En attente,20,3,0,1010
+2023-02-28,Nanterre,Invalidité,En attente,15,0,0,1019
+2024-06-30,Nanterre,Retraite,En cours,13,2,0,1017
+2023-03-31,Bobigny,Retraite,Clôturé,51,2,0,1012
+2024-05-31,Créteil,Réversion,En attente,5,1,0,1001
+2023-08-31,Nanterre,Carrière,Clôturé,26,4,0,1012
+2023-10-31,Versailles,Retraite,En attente,71,5,0,1017
+2023-02-28,Nanterre,Carrière,Clôturé,21,1,0,1003
+2023-09-30,Paris,Retraite,En cours,60,4,0,1011
+2023-07-31,Paris,Retraite,En attente,6,0,0,1017
+2023-04-30,Créteil,Invalidité,En cours,15,6,0,1003
+2024-06-30,Bobigny,Invalidité,En attente,11,5,0,1008
+2024-01-31,Créteil,Invalidité,En attente,31,1,0,1004
+2023-11-30,Créteil,Carrière,En cours,84,5,0,1007
+2023-04-30,Créteil,Réversion,Clôturé,10,1,0,1014
+2023-04-30,Créteil,Retraite,En cours,26,4,0,1014
+2023-10-31,Versailles,Retraite,En cours,9,2,0,1004
+2023-05-31,Versailles,Retraite,En cours,21,1,0,1016
+2023-09-30,Nanterre,Carrière,Clôturé,17,3,0,1001
+2023-03-31,Paris,Invalidité,En attente,76,3,0,1017
+2024-05-31,Créteil,Réversion,En cours,23,6,0,1010
+2023-03-31,Nanterre,Carrière,En attente,13,0,1,1016
+2024-04-30,Paris,Invalidité,En attente,7,3,0,1016
+2023-04-30,Bobigny,Carrière,En cours,8,5,0,1008
+2024-06-30,Versailles,Réversion,En attente,10,1,0,1007
+2024-05-31,Paris,Invalidité,En cours,10,3,0,1006
+2023-07-31,Bobigny,Carrière,Clôturé,43,4,0,1016
+2023-05-31,Paris,Réversion,En attente,21,2,0,1016
+2023-12-31,Versailles,Retraite,En cours,19,3,0,1007
+2024-05-31,Versailles,Réversion,En attente,7,7,1,1009
+2024-01-31,Nanterre,Retraite,Clôturé,44,1,0,1014
+2023-03-31,Créteil,Carrière,En cours,30,3,0,1011
+2023-09-30,Paris,Invalidité,Clôturé,6,3,1,1014
+2024-05-31,Paris,Invalidité,En cours,29,1,0,1007
+2024-05-31,Bobigny,Carrière,En attente,20,1,1,1001
+2024-04-30,Versailles,Invalidité,En cours,6,2,0,1013
+2024-01-31,Paris,Invalidité,Clôturé,17,2,0,1003
+2024-05-31,Versailles,Retraite,En cours,18,6,0,1004
+2023-04-30,Paris,Carrière,Clôturé,8,1,0,1011
+2023-12-31,Nanterre,Réversion,Clôturé,63,3,1,1002
+2023-09-30,Créteil,Retraite,En attente,42,3,0,1014
+2023-12-31,Paris,Carrière,En attente,27,4,0,1012
+2023-09-30,Versailles,Retraite,En cours,17,2,0,1017
+2023-07-31,Nanterre,Réversion,En cours,15,3,0,1012
+2024-02-29,Paris,Réversion,Clôturé,26,4,0,1012
+2024-03-31,Bobigny,Carrière,Clôturé,20,2,0,1001
+2024-04-30,Créteil,Réversion,En cours,6,3,0,1013
+2023-05-31,Paris,Retraite,En attente,19,2,0,1014
+2023-03-31,Nanterre,Réversion,Clôturé,37,4,0,1002
+2023-12-31,Bobigny,Retraite,En attente,17,1,0,1012
+2023-04-30,Nanterre,Retraite,Clôturé,6,3,0,1016
+2024-04-30,Nanterre,Réversion,En cours,35,5,0,1004
+2023-07-31,Bobigny,Carrière,En cours,9,2,0,1008
+2024-01-31,Nanterre,Invalidité,En attente,10,4,0,1002
+2023-10-31,Bobigny,Réversion,En cours,8,2,0,1010
+2023-07-31,Paris,Retraite,En cours,13,1,0,1009
+2024-02-29,Bobigny,Retraite,En cours,33,3,0,1015
+2023-05-31,Bobigny,Réversion,En attente,19,4,0,1013
+2023-03-31,Créteil,Carrière,Clôturé,9,7,0,1017
+2023-11-30,Bobigny,Carrière,Clôturé,47,4,0,1016
+2023-11-30,Bobigny,Retraite,En attente,47,6,0,1002
+2024-06-30,Paris,Retraite,En attente,45,4,0,1014
+2024-03-31,Créteil,Carrière,En attente,10,1,1,1003
+2023-12-31,Versailles,Invalidité,En cours,17,1,0,1012
+2023-09-30,Paris,Réversion,En cours,88,7,0,1008
+2023-10-31,Paris,Retraite,En cours,34,4,1,1002
+2023-12-31,Versailles,Retraite,En attente,5,3,0,1004
+2024-05-31,Bobigny,Carrière,En cours,6,3,0,1014
+2023-06-30,Nanterre,Réversion,En cours,17,3,0,1016
+2023-07-31,Créteil,Carrière,En cours,52,3,0,1019
+2024-02-29,Nanterre,Réversion,Clôturé,20,1,1,1002
+2024-01-31,Versailles,Réversion,En attente,18,1,1,1012
+2023-08-31,Paris,Réversion,En cours,7,3,0,1014
+2023-10-31,Paris,Retraite,En cours,26,0,0,1006
+2023-09-30,Créteil,Invalidité,En cours,39,3,1,1013
+2024-06-30,Paris,Carrière,Clôturé,14,3,0,1004
+2023-02-28,Paris,Invalidité,En cours,34,0,0,1018
+2023-05-31,Créteil,Carrière,Clôturé,71,2,1,1012
+2023-05-31,Créteil,Réversion,En attente,9,1,0,1019
+2023-06-30,Versailles,Retraite,En attente,19,2,0,1008
+2023-08-31,Paris,Invalidité,Clôturé,11,4,0,1007
+2024-04-30,Paris,Retraite,En cours,36,4,1,1016
+2024-01-31,Versailles,Carrière,En attente,22,1,0,1019
+2023-01-31,Bobigny,Retraite,En attente,25,3,0,1006
+2024-05-31,Bobigny,Retraite,En attente,36,3,0,1011
+2023-07-31,Bobigny,Invalidité,Clôturé,15,2,0,1005
+2024-01-31,Versailles,Réversion,En attente,54,2,0,1016
+2023-04-30,Paris,Retraite,En cours,20,3,0,1007
+2023-04-30,Versailles,Réversion,En attente,8,2,0,1005
+2023-06-30,Versailles,Carrière,En cours,28,3,0,1011
+2023-12-31,Bobigny,Retraite,En attente,36,2,1,1015
+2023-07-31,Nanterre,Invalidité,En cours,12,1,0,1003
+2023-10-31,Paris,Carrière,En attente,43,0,1,1005
+2023-07-31,Bobigny,Carrière,Clôturé,52,3,0,1005
+2023-03-31,Nanterre,Invalidité,En attente,11,4,0,1009
+2024-01-31,Nanterre,Retraite,En cours,87,4,0,1015
+2024-01-31,Créteil,Retraite,Clôturé,8,3,0,1003
+2024-06-30,Paris,Carrière,En cours,9,3,1,1006
+2023-08-31,Nanterre,Retraite,En cours,9,6,0,1017
+2023-09-30,Bobigny,Réversion,En cours,49,4,0,1008
+2023-07-31,Créteil,Invalidité,En cours,26,4,0,1011
+2023-01-31,Paris,Réversion,En cours,8,5,0,1006
+2023-03-31,Versailles,Retraite,Clôturé,16,1,0,1008
+2024-01-31,Bobigny,Carrière,En cours,24,4,0,1010
+2024-05-31,Nanterre,Invalidité,En cours,6,2,0,1003
+2023-01-31,Nanterre,Retraite,Clôturé,47,4,0,1014
+2023-06-30,Bobigny,Retraite,En cours,37,5,0,1014
+2023-06-30,Nanterre,Carrière,En attente,19,2,0,1010
+2023-12-31,Créteil,Carrière,En cours,73,4,0,1012
+2024-01-31,Paris,Réversion,Clôturé,15,1,0,1006
+2024-01-31,Créteil,Invalidité,En attente,87,2,0,1012
+2024-03-31,Nanterre,Invalidité,En cours,27,4,0,1014
+2024-04-30,Versailles,Carrière,En attente,25,1,0,1002
+2023-11-30,Paris,Réversion,En cours,8,1,0,1009
+2023-05-31,Paris,Invalidité,En attente,47,0,1,1010
+2023-04-30,Bobigny,Carrière,En cours,16,3,0,1017
