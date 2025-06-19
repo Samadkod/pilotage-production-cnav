@@ -29,8 +29,16 @@ col4.metric("⏱️ Délai moyen (jours)", round(df_filtered["Délai_traitement"
 col5.metric("⚠️ Taux de retour", f"{df_filtered['Taux_retour'].mean():.1%}")
 
 # Graphique des dossiers traités par mois
-fig1 = px.bar(df_filtered.groupby(df_filtered["Date"].dt.to_period("M"))["Dossiers"].sum().reset_index(),
-              x="Date", y="Dossiers", title="📈 Évolution mensuelle des dossiers traités")
+df_evo = (
+    df_filtered
+    .groupby(df_filtered["Date"].dt.to_period("M"))["Dossiers"]
+    .sum()
+    .reset_index()
+)
+df_evo["Date"] = df_evo["Date"].dt.to_timestamp()
+df_evo = df_evo.sort_values("Date")
+
+fig1 = px.bar(df_evo, x="Date", y="Dossiers", title="📈 Évolution mensuelle des dossiers traités")
 st.plotly_chart(fig1, use_container_width=True)
 
 # Graphique du délai moyen par agence
