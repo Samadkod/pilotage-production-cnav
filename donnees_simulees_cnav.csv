@@ -1,4 +1,4 @@
-Date,Agence,Type_dossier,Statut,Délai_traitement,Nb_documents,Retours_dossier,Agent,Dossiers_traites,Taux_retour,Charge_workload
+Date,Agence,Type_dossier,Statut,Délai_traitement,Nb_documents,Retours_dossier,Agent,Dossiers,Taux_retour,Charge_workload
 2023-01-02,Créteil,Retraite,Clôturé,33,3,0,1013,18,0.08359798677409687,1.3944822782905524
 2023-01-02,Bobigny,Invalidité,Rejeté,38,4,1,1012,12,0.09767882601298793,1.52250422360243
 2023-01-02,Bobigny,Survivants,Clôturé,25,2,1,1012,19,0.02626988162898134,1.3863011619065624
