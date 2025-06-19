@@ -21,7 +21,7 @@ df_filtered = df[df["Type_dossier"].isin(types) & df["Agence"].isin(agences)]
 
 # KPI principaux
 col3, col4, col5 = st.columns(3)
-col3.metric("📦 Dossiers traités", int(df_filtered["Dossiers_traites"].sum()))
+col3.metric("📦 Dossiers traités", int(df_filtered[" Dossiers_traites"].sum()))
 col4.metric("⏱️ Délai moyen (jours)", round(df_filtered["Délai_traitement"].mean(), 1))
 col5.metric("⚠️ Taux de retour", f"{df_filtered['Taux_retour'].mean():.1%}")
 
