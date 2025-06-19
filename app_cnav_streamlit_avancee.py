@@ -4,7 +4,6 @@ import plotly.express as px
 
 # Chargement des données
 df = pd.read_csv("donnees_simulees_cnav.csv", parse_dates=["Date"])
-st.write("🧾 Colonnes détectées :", df.columns.tolist())
 
 df.columns = df.columns.str.strip()  # 🔧 Corrige les noms de colonnes
 
