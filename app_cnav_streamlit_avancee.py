@@ -3,9 +3,6 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
-import os
-print("Fichiers présents dans le dossier :", os.listdir())
-
 # Chargement des données
 df = pd.read_csv("donnees_simulees_cnav.csv", parse_dates=["Date"])
 
