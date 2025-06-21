@@ -58,3 +58,5 @@ if df_filtered["Taux_retour"].mean() > 0.1:
 if df_filtered.groupby("Agence")["Dossiers_traites"].sum().std() > 300:
     st.info("📍 Écart important entre agences. Une redistribution des charges peut être envisagée.")
 
+st.caption("Projet réalisé par Samadou Kodon – 2025")
+
