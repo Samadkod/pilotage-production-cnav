@@ -5,7 +5,7 @@ Développer un tableau de bord interactif pour suivre la performance d'équipes 
 Ce projet vise à améliorer la visibilité sur les délais de traitement, la charge de travail et les points de blocage à l’aide de **KPI dynamiques**, de **filtres intuitifs** et de **recommandations automatiques**.
 
 🔗 **Lien vers l'application Streamlit** :  
-👉 [Accéder à l'application](https://pilotage-appuction-cnav-aenhnxkzdjkwnqfcpcleid.streamlit.app/)
+👉 [Accéder à l'application](https://pilotage-appuction-organisme-public-gnjpui2nu66lmc4ked96zl.streamlit.app/)
 
 ---
 
